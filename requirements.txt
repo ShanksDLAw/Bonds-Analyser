@@ -1,0 +1,34 @@
+# Core dependencies
+streamlit>=1.28.0
+pandas>=2.1.0
+numpy>=1.24.0
+scipy>=1.11.0
+plotly>=5.18.0
+
+# Data fetching
+yfinance>=0.2.31
+wbgapi>=1.0.3
+requests>=2.31.0
+python-dotenv>=1.0.0
+
+# Error handling and retries
+tenacity>=8.2.3
+
+# Caching and compression
+gzip-stream==1.1.1
+
+# Type hints
+typing-extensions==4.8.0
+
+# Logging
+python-json-logger==2.0.7
+
+# Testing
+pytest>=7.4.0
+pytest-cov>=4.1.0
+
+# Development
+black>=23.9.0
+flake8>=6.1.0
+mypy>=1.5.0
+dataclasses-json>=0.6.1 

@@ -1,0 +1,38 @@
+{
+  "Stock List": {
+    "success": true,
+    "message": "Success"
+  },
+  "Company Search": {
+    "success": false,
+    "message": "Error: 401"
+  },
+  "Company Profile": {
+    "success": true,
+    "message": "Success"
+  },
+  "Company Quote": {
+    "success": true,
+    "message": "Success"
+  },
+  "Key Metrics": {
+    "success": false,
+    "message": "Error: 401"
+  },
+  "Key Metrics TTM": {
+    "success": true,
+    "message": "Success"
+  },
+  "Balance Sheet": {
+    "success": false,
+    "message": "Error: 401"
+  },
+  "Ratios TTM": {
+    "success": true,
+    "message": "Success"
+  },
+  "Treasury Rates": {
+    "success": true,
+    "message": "Success"
+  }
+}
